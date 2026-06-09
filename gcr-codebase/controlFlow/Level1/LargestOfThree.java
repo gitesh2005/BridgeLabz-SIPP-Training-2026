@@ -1,4 +1,4 @@
-package controlFlow;
+package controlFlow.Level1;
 import java.util.*;
 public class LargestOfThree {
     public static void main(String[] args) {

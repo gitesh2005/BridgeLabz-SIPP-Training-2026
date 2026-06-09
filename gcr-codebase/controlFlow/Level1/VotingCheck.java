@@ -1,4 +1,4 @@
-package controlFlow;
+package controlFlow.Level1;
 import java.util.Scanner;
 
 public class VotingCheck {
