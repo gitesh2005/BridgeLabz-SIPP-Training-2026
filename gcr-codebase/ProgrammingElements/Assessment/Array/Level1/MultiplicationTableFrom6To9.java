@@ -1,4 +1,4 @@
-package ProgrammingElements.Assessment.Array;
+package ProgrammingElements.Assessment.Array.Level1;
 
 import java.util.Scanner;
 
