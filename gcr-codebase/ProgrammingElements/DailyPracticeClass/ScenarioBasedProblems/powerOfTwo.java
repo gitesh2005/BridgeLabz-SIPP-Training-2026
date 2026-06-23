@@ -1,4 +1,4 @@
-package ProgrammingElements.DailyPracticeClass.StringScenarioBasedProblems;
+package ProgrammingElements.DailyPracticeClass.ScenarioBasedProblems;
 
 import java.util.Scanner;
 // using the Loop but gives TLE --> soo for this we use the recursion....

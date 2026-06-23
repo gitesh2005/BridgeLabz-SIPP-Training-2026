@@ -1,6 +1,5 @@
-package ProgrammingElements.DailyPracticeClass.StringScenarioBasedProblems;
+package ProgrammingElements.DailyPracticeClass.ScenarioBasedProblems;
 
-import javax.xml.transform.Source;
 import java.util.Scanner;
 
 public class UsernameValidator {
