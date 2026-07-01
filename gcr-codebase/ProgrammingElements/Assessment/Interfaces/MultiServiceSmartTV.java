@@ -1,4 +1,4 @@
-package ProgrammingElements.Interfaces;
+package ProgrammingElements.Assessment.Interfaces;
 
 interface StreamingService {
 
